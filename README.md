@@ -1,4 +1,4 @@
-Olá! Eu sou a Júlia
+Hello! Welcome! I'm Julia
 
 
 - 🔭 I’m currently working on front-end and back-end
