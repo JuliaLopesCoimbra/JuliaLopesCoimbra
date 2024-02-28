@@ -12,7 +12,7 @@ Hello! Welcome! I'm Julia
 
 
 <h2>About my studies languages</h2>
-  <div style="display: inline_block"><br>
+  <div style="flex: 1; gap: 15px"><br>
   <img align="center" alt="Rafa-Js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
